@@ -1,0 +1,1 @@
+from .wsg import WSG
